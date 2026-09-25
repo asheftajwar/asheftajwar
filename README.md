@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer** focused on building production-grade web and mobile applications.
 
-I build software end-to-end — from **product architecture and APIs to deployment, monitoring, automation, and long-term maintenance.**
+I build software end-to-end — from **product architecture and APIs to deployment, monitoring, automation and long-term maintenance.**
 
 ### 🛠️ Core Stack
 
@@ -27,10 +27,10 @@ I build software end-to-end — from **product architecture and APIs to deployme
 ### 🚀 Currently Building
 
 **AI Story Studio**
-An AI-powered platform for creating, managing, and producing visual stories through an automated creative pipeline.
+An AI-powered platform for creating, managing and producing visual stories through an automated creative pipeline.
 
 **System Design Lab**
-A collection of practical experiments exploring scalable architectures, distributed systems, APIs, infrastructure, and real-world engineering trade-offs.
+A collection of practical experiments exploring scalable architectures, distributed systems, APIs, infrastructure and real-world engineering trade-offs.
 
 ### 💼 Experience
 
@@ -43,11 +43,11 @@ Previously worked on **commercial software and client projects** across:
 * Business automation
 * Third-party API integrations
 
-Much of my professional work has been built for clients and production environments, so this profile focuses on **public projects, engineering experiments, and systems I can openly share.**
+Much of my professional work has been built for clients and production environments, so this profile focuses on **public projects, engineering experiments and systems I can openly share.**
 
 ### 📌 What You'll Find Here
 
-This GitHub is where I document what I build, learn, and experiment with — with an emphasis on:
+This GitHub is where I document what I build, learn and experiment with — with an emphasis on:
 
 **Clean architecture · Practical engineering · Automation · Scalability · Continuous learning**
 
